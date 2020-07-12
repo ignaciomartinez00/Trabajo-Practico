@@ -1,4 +1,0 @@
-//sistema de funcionamiento de un vehiculo
-Emular, de manera muy simplificada, el sistema de funcionamiento de un vehículo. Lo que voy a tomar es, por un lado, la caja de cambios, el freno y el acelerador como entradas
-y por otro, el tablero del vehículo (que será únicamente un medidor de velocidad y de RPM) como la salida/impresión. Esto quiere decir que estoy pensando en tomar como variables
-para la máquina de estados la caja de cambios y el freno/acelerador
